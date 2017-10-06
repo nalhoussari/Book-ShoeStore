@@ -4,7 +4,7 @@ package ca.bcit.comp1451.assignment1.alhoussari;
  * Represents a year, month, day triplet.
  * 
  * @author James Pede
- * @version Jun20'14,1344h
+ * @version November 2016
  */
 public class Date
 {
